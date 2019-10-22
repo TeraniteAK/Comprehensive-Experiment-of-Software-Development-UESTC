@@ -14,15 +14,23 @@ This is my course project for Comprehensive Experiment of Software Development i
 ![这里随便写文字](https://github.com/TeraniteAK/Comprehensive-Experiment-of-Software-Development-UESTC/blob/master/1.png)
 
 要求如下：
+
 1.能够从文件中读取地图数据，并生成地图。
+
 2.利用算法生成一条通路。
+
 3.修改地图数据，利用算法生成多条通路。（可选）
+
 4.自动生成迷宫地图，并自动寻路。（可选）
 
 ***实验3：哈夫曼编码***
 
 实验要求：打开一个txt文档，读取文档中内容，统计出现的字符及其频率，创建huffman树，并对文本内容进行huffman编码，对文件压缩。保存压缩文件和huffman编码，对压缩后的文件解压缩。要求如下：
+
 1.获取文件内容，统计字符及对应出现词频。
+
 2.构建哈夫曼树，对字符进行编码
+
 3.根据字符编码进行文件压缩，写入二进制文件
+
 4.打开二进制文件，根据表头信息，将二进制编码转换为对应字符，写入文本文件
