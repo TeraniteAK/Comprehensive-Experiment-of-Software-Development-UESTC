@@ -11,7 +11,7 @@ This is my course project for Comprehensive Experiment of Software Development i
 
 实验要求：写一个终端迷宫游戏，能够从文件中或者利用程序生成迷宫地图，并且至少找出一条可行的通路。如下图所示：
 
-![这里随便写文字](https://github.com/TeraniteAK/Comprehensive-Experiment-of-Software-Development-UESTC/blob/master/1.png)
+![这里随便写文字](https://github.com/TeraniteAK/Comprehensive-Experiment-of-Software-Development-UESTC/blob/master/reports/1.png)
 
 要求如下：
 
