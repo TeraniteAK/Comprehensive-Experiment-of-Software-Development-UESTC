@@ -1,0 +1,25 @@
+<Project version="3.0">
+<Name>HuffmanCoding</Name>
+<Type>CUI</Type>
+<TargetName>HuffmanCoding</TargetName>
+<TargetType>exe</TargetType>
+<Folder name="Source Files">
+	<File>main.cpp</File>
+</Folder>
+<Folder name="Header Files">
+	<File>HuffmanTree.h</File>
+</Folder>
+<Folder name="Other Files">
+	<File>Data.txt</File>
+</Folder>
+<Attribute topline="1" x="1" y="24">main.cpp</Attribute>
+<Attribute topline="249" x="1" y="269">HuffmanTree.h</Attribute>
+<FolderState>111</FolderState>
+<Breakpoint>
+	<File>8H¬Target></Target>
+			<TargetType></TargetType>
+			<CurrentDir></File>
+	<Line>248</Line>
+	<Condition></Condition>
+</Breakpoint>
+<DefConfig>mingw5</DefConfig>
